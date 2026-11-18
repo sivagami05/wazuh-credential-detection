@@ -1,0 +1,1 @@
+# wazuh-credential-detection
